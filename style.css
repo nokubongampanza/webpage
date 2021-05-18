@@ -1,0 +1,20 @@
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    border: 2px solid darkgrey;
+    height: 100px;
+ }
+
+.title{
+    font-size: 40px;
+    color: red;
+    width: 100px;
+   
+}
+.subtitle{
+    color: white;
+    
+}
